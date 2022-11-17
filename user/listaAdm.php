@@ -1,7 +1,7 @@
 <h1>Listar usuários</h1>
 <?php
 
-$sql = "SELECT * FROM admin";
+$sql = "SELECT * FROM ADMINISTRADOR";
 
 $res = $conn->query($sql);
 
