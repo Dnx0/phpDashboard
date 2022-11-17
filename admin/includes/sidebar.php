@@ -30,9 +30,9 @@
             </a>
           </li>
           <li>
-            <a href="javascript:;">
+            <a href="categoria.php:;">
               <i class="nc-icon nc-pin-3"></i>
-              <p>Categorias</p>
+              <p>Adicionar Categoria</p>
             </a>
           </li>
         </ul>
